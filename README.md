@@ -16,8 +16,8 @@
 ## Meus projetos
 ### Os projetos listados estão em fase de aprimoramento, a cada estudo novo, os projetos são implementados.
 
-💻 - [Projeto - Landing page - AWAX](https://hendyws.github.io/Awax/)
-💻 - [Projeto - MediCenter](https://hendyws.github.io/Modelo-Site-Saude/)
-💻 - [Projeto - loopstudio - Desafio FrontendMentor](https://hendyws.github.io/loopstudio-landing-page/)
-💻 - [Projeto - Landing Page - Oléo de Rosa Mosqueta](https://hendyws.github.io/oleorosamosqueta-version-landpage/)
-💻 - [Projeto - Clone Netflix - Projeto de estudos](https://hendyws.github.io/clone-project-netflix/)
+💻 - [Projeto - Landing page - AWAX](https://hendyws.github.io/Awax/)<br><br>
+💻 - [Projeto - MediCenter](https://hendyws.github.io/Modelo-Site-Saude/)<br><br>
+💻 - [Projeto - loopstudio - Desafio FrontendMentor](https://hendyws.github.io/loopstudio-landing-page/)<br><br>
+💻 - [Projeto - Landing Page - Oléo de Rosa Mosqueta](https://hendyws.github.io/oleorosamosqueta-version-landpage/)<br><br>
+💻 - [Projeto - Clone Netflix - Projeto de estudos](https://hendyws.github.io/clone-project-netflix/)<br><br>
