@@ -12,3 +12,12 @@
   <img align="center" alt="Henderson-Ia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Henderson-Ae" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
 </div>
+
+## Meus projetos
+### Os projetos listados estão em fase de aprimoramento, a cada estudo novo, os projetos são implementados.
+
+💻 - [Projeto - Landing page - AWAX](https://hendyws.github.io/Awax/)
+💻 - [Projeto - MediCenter](https://hendyws.github.io/Modelo-Site-Saude/)
+💻 - [Projeto - loopstudio - Desafio FrontendMentor](https://hendyws.github.io/loopstudio-landing-page/)
+💻 - [Projeto - Landing Page - Oléo de Rosa Mosqueta](https://hendyws.github.io/oleorosamosqueta-version-landpage/)
+💻 - [Projeto - Clone Netflix - Projeto de estudos](https://hendyws.github.io/clone-project-netflix/)
