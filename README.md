@@ -14,7 +14,7 @@
 </div>
 
 ## Meus projetos
-### Os projetos listados estão em fase de aprimoramento, a cada estudo novo, os projetos são implementados.
+### Os projetos listados estão em fase de aprimoramento, a cada estudo novo, os projetos são implementados.<br><br>
 
 💻 - [Projeto - Landing page - AWAX](https://hendyws.github.io/Awax/)<br><br>
 💻 - [Projeto - MediCenter](https://hendyws.github.io/Modelo-Site-Saude/)<br><br>
