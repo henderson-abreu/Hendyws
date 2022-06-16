@@ -15,6 +15,8 @@
 
 ## Meus projetos
 ### Os projetos listados estão em fase de aprimoramento, a cada estudo novo, os projetos são implementados.<br><br>
+### Alguns sites são CLONES de sites oficiais, criados para fins de estudos e nada mais. Se por acaso seu navegador julgar como SITE FRAUDULENTO, ignore e prossiga. 
+### Tentando resolver a questão
 
 💻 - [Projeto - Landing page - AWAX](https://hendyws.github.io/Awax/)<br><br>
 💻 - [Projeto - MediCenter](https://hendyws.github.io/Modelo-Site-Saude/)<br><br>
