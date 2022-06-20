@@ -23,5 +23,5 @@
 💻 - [Projeto - loopstudio - Desafio FrontendMentor](https://hendyws.github.io/loopstudio-landing-page/)<br><br>
 💻 - [Projeto - Landing Page - Oléo de Rosa Mosqueta](https://hendyws.github.io/oleorosamosqueta-version-landpage/)<br><br>
 💻 - [Projeto - Clone Netflix - Projeto de estudos](https://hendyws.github.io/clone-project-netflix/)<br><br>
-💻 - [Projeto - Medical Center +](https://hendyws.github.io/medical-center/)
-💻 - [Projeto - Clone Instagram](https://hendyws.github.io/insta-hendy/)
+💻 - [Projeto - Medical Center +](https://hendyws.github.io/medical-center/)<br><br>
+💻 - [Projeto - Clone Instagram](https://hendyws.github.io/insta-hendy/)<br><br>
