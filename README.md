@@ -19,10 +19,10 @@
 ### Alguns sites são CLONES de sites oficiais, criados para fins de estudos e nada mais. Se por acaso seu navegador julgar como SITE FRAUDULENTO, ignore e prossiga. 
 ### Tentando resolver a questão
 
-💻 - [Projeto - Landing page - AWAX](https://hendyws.github.io/Awax/)<br><br>
-💻 - [Projeto - MediCenter](https://hendyws.github.io/Modelo-Site-Saude/)<br><br>
-💻 - [Projeto - loopstudio - Desafio FrontendMentor](https://hendyws.github.io/loopstudio-landing-page/)<br><br>
-💻 - [Projeto - Landing Page - Oléo de Rosa Mosqueta](https://hendyws.github.io/oleorosamosqueta-version-landpage/)<br><br>
-💻 - [Projeto - Clone Netflix - Projeto de estudos](https://hendyws.github.io/clone-project-netflix/)<br><br>
-💻 - [Projeto - Medical Center +](https://hendyws.github.io/medical-center/)<br><br>
-💻 - [Projeto - Clone Instagram](https://hendyws.github.io/insta-hendy/)<br><br>
+💻 - [Projeto - Landing page - AWAX](https://henderson-awax.netlify.app)<br><br>
+💻 - [Projeto - MediCenter](https://henderson-medical.netlify.app)<br><br>
+💻 - [Projeto - loopstudio - Desafio FrontendMentor](https://henderson-loopstudio.netlify.app)<br><br>
+💻 - [Projeto - Landing Page - Oléo de Rosa Mosqueta](https://henderson-oleomosqueta.netlify.app)<br><br>
+💻 - [Projeto - Clone Netflix - Projeto de estudos](https://henderson-netflix-clone.netlify.app)<br><br>
+💻 - [Projeto - Medical Center +](https://henderson-medical-center.netlify.app)<br><br>
+💻 - [Projeto - Jogo da Memória](https://memory-game-bible.netlify.app)<br><br>
